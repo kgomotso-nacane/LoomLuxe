@@ -32,14 +32,14 @@ body {
 }
 
 #logo {
-  color: #6070ff;
+  color: #e057dc;
   text-decoration: none;
   font-size: 18px;
   font-weight: 700;
 }
 
 .menu {
-  color: #6070ff;
+  color: #e057dc;
   font-size: 1.3rem;
 }
 
@@ -54,7 +54,7 @@ body {
   width: 100%;
   height: 100vh;
   transition: 0.2s ease-in-out;
-  background-color: rgba(41, 58, 208, 0.8);
+  background-color: #e057dc;
   -webkit-backdrop-filter: blur(5px);
   backdrop-filter: blur(5px);
   display: none;
@@ -73,7 +73,7 @@ body {
 }
 
 .connect-me a {
-  color: #7f8cff;
+  color: #e057dc;
   text-decoration: none;
   font-weight: 500;
   font-size: 16px;
@@ -104,6 +104,13 @@ body {
   color: #172b4d;
   font-size: 40px;
   font-weight: 700;
+}
+
+.hero-gif {
+  display: block;
+  margin: 20px auto;
+  width: 180px;
+  height: auto;
 }
 
 .about-me {
@@ -194,7 +201,7 @@ p.description {
 }
 
 .techs .single-tech {
-  color: #6070ff;
+  color: #e057dc;
   font-weight: 500;
   font-size: 12px;
   background-color: #ebebff;
@@ -204,13 +211,13 @@ p.description {
 }
 
 .view-more {
-  color: #396df2;
+  color: #e057dc;
   font-weight: 600;
   font-size: 17px;
   background-color: #fff;
   border-radius: 8px;
   padding: 14px 10px;
-  border: 2px solid #396df2;
+  border: 2px solid #e057dc;
 }
 
 form div .view-more {
@@ -219,7 +226,7 @@ form div .view-more {
 }
 
 .view-more:hover {
-  background-color: #396df2;
+  background-color: #e057dc;
   color: #fff;
 }
 
@@ -390,7 +397,7 @@ form div .view-more {
   padding-top: 10vh;
   padding-bottom: 1px;
   background-image: url("./images/contactbg.png");
-  background-color: #6070ff;
+  background-color: #e057dc;
   background-repeat: no-repeat;
   background-size: 55%;
   background-position: right 21px;
@@ -514,7 +521,7 @@ form textarea {
   }
 
   .menu-list > li > a:hover {
-    color: #6070ff;
+    color: #e057dc;
   }
 
   .hero-holder {
@@ -568,7 +575,7 @@ form textarea {
   }
 
   .icon-group li a i:hover {
-    color: #6070ff;
+    color: #e057dc;
     transform: scale(2);
     transition: ease 0.6s;
   }
@@ -709,7 +716,7 @@ form textarea {
 
   .my-form {
     background-image: url("./images/desktop/contactbg.png");
-    background-color: #6070ff;
+    background-color: #e057dc;
     background-repeat: no-repeat;
     background-size: 90% 95%;
     padding-right: 30%;
